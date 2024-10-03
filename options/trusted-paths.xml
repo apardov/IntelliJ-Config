@@ -1,0 +1,27 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="C:\Users\andpa\OneDrive\Documentos\Digital House\Java Projects" value="true" />
+        <entry key="C:\Users\andpa\OneDrive\Documentos\Digital House\Java Projects\Buffered" value="true" />
+        <entry key="C:\Users\andpa\OneDrive\Documentos\Digital House\Java Projects\ClinicMaven" value="true" />
+        <entry key="C:\Users\andpa\OneDrive\Documentos\Digital House\Java Projects\DentalClinicDAO" value="true" />
+        <entry key="C:\Users\andpa\OneDrive\Documentos\Digital House\Java Projects\Integration" value="true" />
+        <entry key="C:\Users\andpa\OneDrive\Documentos\Digital House\Java Projects\Projects SpringBoot\DentalCLinic" value="true" />
+        <entry key="C:\Users\andpa\OneDrive\Documentos\Digital House\Java Projects\Serializable" value="true" />
+        <entry key="C:\Users\andpa\OneDrive\Documentos\Digital House\Java Projects\dental-clinic" value="true" />
+        <entry key="C:\Users\andpa\OneDrive\Documentos\Digital House\Java Projects\dh" value="true" />
+        <entry key="C:\Users\andpa\OneDrive\Documentos\Digital House\Java Projects\example-jdbc" value="true" />
+        <entry key="C:\Users\andpa\OneDrive\Documentos\Digital House\Java Projects\loggin-log4j" value="true" />
+        <entry key="C:\Users\andpa\OneDrive\Documentos\Digital House\Java Projects\test-junit" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="C:\Users\andpa\OneDrive\Documentos\Digital House" />
+      </list>
+    </option>
+  </component>
+</application>

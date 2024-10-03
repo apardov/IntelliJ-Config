@@ -1,0 +1,4 @@
+izhangzhihao.rainbow.brackets
+com.chrisrm.idea.MaterialThemeUI
+com.github.copilot
+com.mallowigi
